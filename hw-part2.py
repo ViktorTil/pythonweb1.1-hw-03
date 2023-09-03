@@ -1,6 +1,6 @@
 import concurrent.futures
 from multiprocessing import cpu_count
-from time import time, sleep
+from time import time
 
 
 FACTORIZE_LIST = [
